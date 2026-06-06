@@ -16,3 +16,5 @@ NEVER share your .ROBLOSECURITY cookie with anyone. It is a sensitive token that
 
 📝 Requirements
 A Google account (to run on Colab).
+requests library (pre-installed in Colab).
+Disclaimer: This project is not affiliated with, authorized, or endorsed by Roblox Corporation.
